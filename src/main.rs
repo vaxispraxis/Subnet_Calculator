@@ -14,12 +14,12 @@ fn main() {
 #[derive(Default)]
 struct SubnetCalculatorApp {
     ip_input: String,
-    mask_input: String,
     network: String,
     first_host: String,
     last_host: String,
     broadcast: String,
     next_subnet: String,
+    subnet_mask: String,
     result_message: String,
 }
 
@@ -44,6 +44,7 @@ impl eframe::App for SubnetCalculatorApp {
             ui.label(format!("Last Host: {}", self.last_host));
             ui.label(format!("Broadcast Address: {}", self.broadcast));
             ui.label(format!("Next Subnet: {}", self.next_subnet));
+            ui.label(format!("Subnet Mask: {}", self.subnet_mask));
 
             if !self.result_message.is_empty() {
                 ui.separator();
@@ -66,12 +67,14 @@ impl SubnetCalculatorApp {
                         let first_host = increment_ip(network, 1);
                         let last_host = decrement_ip(broadcast, 1);
                         let next_subnet = increment_ip(broadcast, 1);
+                        let subnet_mask = ipv4_network.mask();
 
                         self.network = network.to_string();
                         self.first_host = first_host.to_string();
                         self.last_host = last_host.to_string();
                         self.broadcast = broadcast.to_string();
                         self.next_subnet = next_subnet.to_string();
+                        self.subnet_mask = subnet_mask.to_string();
                         self.result_message = String::new();
                     }
                     IpNetwork::V6(_) => {
@@ -93,6 +96,7 @@ impl SubnetCalculatorApp {
         self.last_host.clear();
         self.broadcast.clear();
         self.next_subnet.clear();
+        self.subnet_mask.clear();
     }
 }
 
