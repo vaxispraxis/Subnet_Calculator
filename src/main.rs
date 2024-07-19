@@ -1,7 +1,8 @@
-use eframe::egui;
+use eframe::egui; 
 use ipnetwork::IpNetwork;
 use std::net::{IpAddr, Ipv4Addr};
-
+//using eframe and egui for the ui
+//using ipnetwork for help with the ip caculations
 fn main() {
     let native_options = eframe::NativeOptions::default();
     eframe::run_native(
@@ -10,7 +11,8 @@ fn main() {
         Box::new(|_cc| Ok(Box::new(SubnetCalculatorApp::default()))),
     );
 }
-
+//defining the app stat
+//this struct hold all the data the app needs, like the ip address input and results of the subnet calculation (network address first/last host etc.)
 #[derive(Default)]
 struct SubnetCalculatorApp {
     ip_input: String,
@@ -22,7 +24,7 @@ struct SubnetCalculatorApp {
     subnet_mask: String,
     result_message: String,
 }
-
+//building the app interface
 impl eframe::App for SubnetCalculatorApp {
     fn update(&mut self, ctx: &egui::Context, _frame: &mut eframe::Frame) {
         egui::CentralPanel::default().show(ctx, |ui| {
@@ -53,7 +55,8 @@ impl eframe::App for SubnetCalculatorApp {
         });
     }
 }
-
+//calculating subnet information
+//this function does the actual work of caculating the ip address and cider input
 impl SubnetCalculatorApp {
     fn calculate_subnet(&mut self) {
         let ip_str = self.ip_input.trim();
