@@ -3,6 +3,15 @@
 version = 3
 
 [[package]]
+name = "Subnet_Calculator"
+version = "0.1.0"
+dependencies = [
+ "eframe",
+ "egui",
+ "ipnetwork",
+]
+
+[[package]]
 name = "ab_glyph"
 version = "0.2.28"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -2523,15 +2532,6 @@ name = "strict-num"
 version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "6637bab7722d379c8b41ba849228d680cc12d0a45ba1fa2b48f2a30577a06731"
-
-[[package]]
-name = "subnetter"
-version = "0.1.0"
-dependencies = [
- "eframe",
- "egui",
- "ipnetwork",
-]
 
 [[package]]
 name = "syn"

@@ -1,5 +1,5 @@
 [package]
-name = "subnetter"
+name = "Subnet_Calculator"
 version = "0.1.0"
 edition = "2021"
 
