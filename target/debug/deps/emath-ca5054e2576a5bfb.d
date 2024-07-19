@@ -1,0 +1,13 @@
+C:\Users\Zion\Documents\Programming\Rust_Programs\subnetter\target\debug\deps\libemath-ca5054e2576a5bfb.rmeta: C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\lib.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\align.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\numeric.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\pos2.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\rect.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\rect_transform.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\rot2.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\smart_aim.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\vec2.rs
+
+C:\Users\Zion\Documents\Programming\Rust_Programs\subnetter\target\debug\deps\emath-ca5054e2576a5bfb.d: C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\lib.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\align.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\numeric.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\pos2.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\rect.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\rect_transform.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\rot2.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\smart_aim.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\vec2.rs
+
+C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\lib.rs:
+C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\align.rs:
+C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\numeric.rs:
+C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\pos2.rs:
+C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\rect.rs:
+C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\rect_transform.rs:
+C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\rot2.rs:
+C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\smart_aim.rs:
+C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\emath-0.15.0\src\vec2.rs:

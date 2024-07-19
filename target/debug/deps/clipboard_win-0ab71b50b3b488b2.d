@@ -1,0 +1,10 @@
+C:\Users\Zion\Documents\Programming\Rust_Programs\subnetter\target\debug\deps\libclipboard_win-0ab71b50b3b488b2.rmeta: C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-3.1.1\src\lib.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-3.1.1\src\formats.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-3.1.1\src\raw.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-3.1.1\src\dib.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-3.1.1\src\image.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-3.1.1\src\utils.rs
+
+C:\Users\Zion\Documents\Programming\Rust_Programs\subnetter\target\debug\deps\clipboard_win-0ab71b50b3b488b2.d: C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-3.1.1\src\lib.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-3.1.1\src\formats.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-3.1.1\src\raw.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-3.1.1\src\dib.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-3.1.1\src\image.rs C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-3.1.1\src\utils.rs
+
+C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-3.1.1\src\lib.rs:
+C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-3.1.1\src\formats.rs:
+C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-3.1.1\src\raw.rs:
+C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-3.1.1\src\dib.rs:
+C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-3.1.1\src\image.rs:
+C:\Users\Zion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-3.1.1\src\utils.rs:
